@@ -1,10 +1,12 @@
 @import 'variables';
 
 .headerWrapper{
-    width: 1334px;
+    width: $containerWidth;
     height: 76px;
-    margin: 0 auto;
+    margin-left: 50%;
+    transform: translateX(-50%);
     background-color: $background;
+    position: fixed;
     display: flex;
     justify-content: space-between;
     align-items: center;

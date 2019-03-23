@@ -1,8 +1,10 @@
 ._1GsOjDqIVfQzE0PTy144LV {
   width: 1334px;
   height: 76px;
-  margin: 0 auto;
+  margin-left: 50%;
+  transform: translateX(-50%);
   background-color: #FFF2E3;
+  position: fixed;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -27,6 +29,36 @@
         transform: scale(0.95) translateX(-2px); }
     ._1GsOjDqIVfQzE0PTy144LV ._1q2MbpR-8YiDZIqs2_NqPg ._1rf18LKvzXWxYeqdPZUbdg {
       color: black; }
+
+._2Lmg7ZUf70VmOSCiNmapZX {
+  margin: 0 auto;
+  height: 100vh;
+  width: 1334px;
+  display: flex;
+  flex-flow: column;
+  justify-content: flex-end;
+  align-items: center;
+  font-family: "Inter";
+  text-align: center; }
+  ._2Lmg7ZUf70VmOSCiNmapZX img {
+    width: 996px;
+    height: 327px; }
+  ._2Lmg7ZUf70VmOSCiNmapZX h1 {
+    margin-top: 37px;
+    font-size: 60px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    line-height: 1.2; }
+  ._2Lmg7ZUf70VmOSCiNmapZX p {
+    margin-top: 42px;
+    width: 597px;
+    font-size: 18px;
+    line-height: 1.2; }
+  ._2Lmg7ZUf70VmOSCiNmapZX ._21hCM388q3XrlgYMrngCE8 {
+    width: 44px;
+    height: 21px;
+    margin-bottom: 23px;
+    margin-top: 30px; }
 
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
