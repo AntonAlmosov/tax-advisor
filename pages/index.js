@@ -2,6 +2,7 @@ import Head from 'next/head'
 
 import Header from './../components/Header'
 import About from './../components/About'
+import Services from './../components/Services'
 import './../style.scss'
 
 
@@ -14,6 +15,7 @@ class Index extends React.Component{
       </Head>
       <Header />
       <About />
+      <Services />
     </div>
     )
   };

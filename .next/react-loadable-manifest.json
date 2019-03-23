@@ -35,6 +35,12 @@
       "publicPath": "static/chunks/styles.js"
     },
     {
+      "id": 7,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
       "id": 2,
       "name": null,
       "file": "static/chunks/styles.js",
@@ -53,6 +59,14 @@
     {
       "id": "./css/about/advantages.scss",
       "name": "./css/about/advantages.scss",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./../css/services.scss": [
+    {
+      "id": "./css/services.scss",
+      "name": "./css/services.scss",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }

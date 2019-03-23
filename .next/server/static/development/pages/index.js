@@ -190,7 +190,7 @@ var Header = function Header() {
     },
     __self: this
   }, "\u041E \u041D\u0410\u0421"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "",
+    href: "#services",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
@@ -210,6 +210,106 @@ var Header = function Header() {
 
 /***/ }),
 
+/***/ "./components/Services.js":
+/*!********************************!*\
+  !*** ./components/Services.js ***!
+  \********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _css_services_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./../css/services.scss */ "./css/services.scss");
+/* harmony import */ var _css_services_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_css_services_scss__WEBPACK_IMPORTED_MODULE_1__);
+var _jsxFileName = "/Users/antonalmosov/Desktop/tax-advisor/components/Services.js";
+
+
+/* harmony default export */ __webpack_exports__["default"] = (function () {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: _css_services_scss__WEBPACK_IMPORTED_MODULE_1___default.a.servicesWrapper,
+    id: "services",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 6
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  }, "\u041A\u0430\u043A \u043C\u044B \u0412\u0430\u043C \u043F\u043E\u043C\u043E\u0436\u0435\u043C?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "static/starter.svg",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: _css_services_scss__WEBPACK_IMPORTED_MODULE_1___default.a.servicesLinksWrappers,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 10
+    },
+    __self: this
+  })));
+});
+
+/***/ }),
+
+/***/ "./components/about/AdvantageCard.js":
+/*!*******************************************!*\
+  !*** ./components/about/AdvantageCard.js ***!
+  \*******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _css_about_advantages_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./../../css/about/advantages.scss */ "./css/about/advantages.scss");
+/* harmony import */ var _css_about_advantages_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_css_about_advantages_scss__WEBPACK_IMPORTED_MODULE_1__);
+var _jsxFileName = "/Users/antonalmosov/Desktop/tax-advisor/components/about/AdvantageCard.js";
+
+
+/* harmony default export */ __webpack_exports__["default"] = (function (_ref) {
+  var img = _ref.img,
+      text = _ref.text;
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: _css_about_advantages_scss__WEBPACK_IMPORTED_MODULE_1___default.a.advatagesItem,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 6
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: img,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, text));
+});
+
+/***/ }),
+
 /***/ "./components/about/Advantages.js":
 /*!****************************************!*\
   !*** ./components/about/Advantages.js ***!
@@ -223,7 +323,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _css_about_advantages_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./../../css/about/advantages.scss */ "./css/about/advantages.scss");
 /* harmony import */ var _css_about_advantages_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_css_about_advantages_scss__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _AdvantageCard__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./AdvantageCard */ "./components/about/AdvantageCard.js");
 var _jsxFileName = "/Users/antonalmosov/Desktop/tax-advisor/components/about/Advantages.js";
+
 
 
 /* harmony default export */ __webpack_exports__["default"] = (function () {
@@ -231,112 +333,70 @@ var _jsxFileName = "/Users/antonalmosov/Desktop/tax-advisor/components/about/Adv
     className: _css_about_advantages_scss__WEBPACK_IMPORTED_MODULE_1___default.a.advatagesWrapper,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6
+      lineNumber: 8
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
+      lineNumber: 9
     },
     __self: this
   }, "\u0427\u0442\u043E \u0412\u044B \u043F\u043E\u043B\u0443\u0447\u0438\u0442\u0435,", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
+      lineNumber: 9
     },
     __self: this
   }), "\u043E\u0431\u0440\u0430\u0442\u0438\u0432\u0448\u0438\u0441\u044C \u0432 \u043D\u0430\u0448\u0443 \u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044E:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: _css_about_advantages_scss__WEBPACK_IMPORTED_MODULE_1___default.a.advatagesItemsWrapper,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: _css_about_advantages_scss__WEBPACK_IMPORTED_MODULE_1___default.a.advatagesItem,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "static/nums/1.svg",
-    __source: {
-      fileName: _jsxFileName,
       lineNumber: 10
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_AdvantageCard__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    img: "static/nums/1.svg",
+    text: "\u0421\u043D\u0438\u0436\u0435\u043D\u0438\u0435 \u041D\u0414\u0421, \u043D\u0430\u043B\u043E\u0433\u0430 \u043D\u0430 \u043F\u0440\u0438\u0431\u044B\u043B\u044C, \u043D\u0430 \u0438\u043C\u0443\u0449\u0435\u0441\u0442\u0432\u043E \u0438 \u0441\u0442\u0440\u0430\u0445\u043E\u0432\u044B\u0445 \u0432\u0437\u043D\u043E\u0441\u043E\u0432 \u0432 \u0441\u0440\u0435\u0434\u043D\u0435\u043C \u043D\u0430 40%",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
     },
     __self: this
-  }, "\u0421\u043D\u0438\u0436\u0435\u043D\u0438\u0435 \u041D\u0414\u0421, \u043D\u0430\u043B\u043E\u0433\u0430 \u043D\u0430 \u043F\u0440\u0438\u0431\u044B\u043B\u044C, \u043D\u0430 \u0438\u043C\u0443\u0449\u0435\u0441\u0442\u0432\u043E \u0438 \u0441\u0442\u0440\u0430\u0445\u043E\u0432\u044B\u0445 \u0432\u0437\u043D\u043E\u0441\u043E\u0432 \u0432 \u0441\u0440\u0435\u0434\u043D\u0435\u043C \u043D\u0430 40%")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: _css_about_advantages_scss__WEBPACK_IMPORTED_MODULE_1___default.a.advatagesItem,
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_AdvantageCard__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    img: "static/nums/2.svg",
+    text: "\u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u0438 \u0430\u043A\u0442\u0438\u0432\u043E\u0432 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u0443\u0447\u0440\u0435\u0434\u0438\u0442\u0435\u043B\u0435\u0439",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "static/nums/2.svg",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 14
-    },
-    __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_AdvantageCard__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    img: "static/nums/3.svg",
+    text: "\u041F\u043E\u0432\u044B\u0448\u0435\u043D\u0438\u0435 \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u0438 \u0438 \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 \u0432\u0441\u0435\u043C \u0442\u043E\u043D\u043A\u043E\u0441\u0442\u044F\u043C \u0438 \u0437\u0430\u043A\u043E\u043D\u043D\u044B\u043C \u043C\u0435\u0442\u043E\u0434\u0430\u043C \u0441\u043D\u0438\u0436\u0435\u043D\u0438\u044F \u043D\u0430\u043B\u043E\u0433\u043E\u0432",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15
     },
     __self: this
-  }, "\u041E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u0438 \u0430\u043A\u0442\u0438\u0432\u043E\u0432 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u0443\u0447\u0440\u0435\u0434\u0438\u0442\u0435\u043B\u0435\u0439")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: _css_about_advantages_scss__WEBPACK_IMPORTED_MODULE_1___default.a.advatagesItem,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 17
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "static/nums/3.svg",
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: _css_about_advantages_scss__WEBPACK_IMPORTED_MODULE_1___default.a.chevronWrapper,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }, "\u041F\u043E\u0432\u044B\u0448\u0435\u043D\u0438\u0435 \u043A\u0432\u0430\u043B\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u0438 \u0438 \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 \u0432\u0441\u0435\u043C \u0442\u043E\u043D\u043A\u043E\u0441\u0442\u044F\u043C \u0438 \u0437\u0430\u043A\u043E\u043D\u043D\u044B\u043C \u043C\u0435\u0442\u043E\u0434\u0430\u043C", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19
-    },
-    __self: this
-  }), "\u0441\u043D\u0438\u0436\u0435\u043D\u0438\u044F \u043D\u0430\u043B\u043E\u0433\u043E\u0432"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: _css_about_advantages_scss__WEBPACK_IMPORTED_MODULE_1___default.a.chevronWrapper,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 22
-    },
-    __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
+      lineNumber: 19
     },
     __self: this
   }, "\u0423\u0437\u043D\u0430\u0439\u0442\u0435 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0435 \u043F\u0440\u043E \u0443\u0441\u043B\u0443\u0433\u0438, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u0432\u0430\u043C \u043F\u043E\u043C\u043E\u0433\u0443\u0442"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     src: "static/chevron.svg",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
+      lineNumber: 20
     },
     __self: this
   })));
@@ -450,6 +510,17 @@ module.exports = {
 	"headerMenu": "_1q2MbpR-8YiDZIqs2_NqPg",
 	"headerLinkActive": "_1rf18LKvzXWxYeqdPZUbdg"
 };
+
+/***/ }),
+
+/***/ "./css/services.scss":
+/*!***************************!*\
+  !*** ./css/services.scss ***!
+  \***************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+
 
 /***/ }),
 
@@ -1662,14 +1733,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_server_head__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(next_server_head__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony import */ var _components_Header__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./../components/Header */ "./components/Header.js");
 /* harmony import */ var _components_About__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./../components/About */ "./components/About.js");
-/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./../style.scss */ "./style.scss");
-/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_style_scss__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var _components_Services__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./../components/Services */ "./components/Services.js");
+/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./../style.scss */ "./style.scss");
+/* harmony import */ var _style_scss__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_style_scss__WEBPACK_IMPORTED_MODULE_10__);
 
 
 
 
 
 var _jsxFileName = "/Users/antonalmosov/Desktop/tax-advisor/pages/index.js";
+
 
 
 
@@ -1693,31 +1766,37 @@ function (_React$Component) {
       return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 11
+          lineNumber: 12
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(next_server_head__WEBPACK_IMPORTED_MODULE_6___default.a, {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 12
+          lineNumber: 13
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("title", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 13
+          lineNumber: 14
         },
         __self: this
       }, "\u041D\u0430\u043B\u043E\u0433\u043E\u0432\u044B\u0439 \u0441\u043E\u0432\u0435\u0442\u043D\u0438\u043A")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Header__WEBPACK_IMPORTED_MODULE_7__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 15
+          lineNumber: 16
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_About__WEBPACK_IMPORTED_MODULE_8__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 16
+          lineNumber: 17
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Services__WEBPACK_IMPORTED_MODULE_9__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 18
         },
         __self: this
       }));
