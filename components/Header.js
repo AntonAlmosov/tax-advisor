@@ -9,7 +9,7 @@ import css from './../css/header.scss'
       <div className={css.headerMenu}>
         <a href='#about' className={css.headerLinkActive}>О НАС</a>
         <a href='#services'>УСЛУГИ</a>
-        <a href=''>КОНТАКТЫ</a>
+        <a href='#contacts'>КОНТАКТЫ</a>
       </div>
      </div>
    )

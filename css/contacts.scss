@@ -1,0 +1,45 @@
+@import 'variables';
+
+.contactsWrapper{
+    width: $containerWidth;
+    margin: 0 auto;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    align-items: center;
+    text-align: center;
+    font-family: $font;
+    font-size: 22px;
+    line-height: 1.2; 
+    .contactsText{
+        margin-bottom: 25px;
+    }
+    .contactsPhones{
+        margin-bottom: 35px; 
+        display: flex;
+        flex-flow: column;
+        span{
+            line-height: 1.4;
+            position: relative;
+            img{
+                position: absolute;
+                top: 3px;
+                left: -25px;
+            }
+            &:first-of-type{
+                line-height: 1.2;
+                margin-bottom: 15px;
+            }
+        }
+    }
+    .contactsEmail{
+        position: relative;
+        font-weight: 600;
+        img{
+            position: absolute;
+            top: 2px;
+            left: -27px;
+        }
+    }
+}

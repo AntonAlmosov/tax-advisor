@@ -104,7 +104,7 @@ var Header = function Header() {
     },
     __self: this
   }, "\u0423\u0421\u041B\u0423\u0413\u0418"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "",
+    href: "#contacts",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12

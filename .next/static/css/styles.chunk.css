@@ -156,6 +156,42 @@
   ._3pVi1NMOeyDyLa2DjdVqCe ._1rqriVnYuaa1ortYzrYDqT {
     display: none; }
 
+._3MPT6d2TZkcpAf6jWcEMk1 {
+  width: 1334px;
+  margin: 0 auto;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-flow: column;
+  align-items: center;
+  text-align: center;
+  font-family: "Inter";
+  font-size: 22px;
+  line-height: 1.2; }
+  ._3MPT6d2TZkcpAf6jWcEMk1 .VGQNqwkJyibS1bfR5KxEy {
+    margin-bottom: 25px; }
+  ._3MPT6d2TZkcpAf6jWcEMk1 ._360hEBAE2ktWlw8S5EwHmf {
+    margin-bottom: 35px;
+    display: flex;
+    flex-flow: column; }
+    ._3MPT6d2TZkcpAf6jWcEMk1 ._360hEBAE2ktWlw8S5EwHmf span {
+      line-height: 1.4;
+      position: relative; }
+      ._3MPT6d2TZkcpAf6jWcEMk1 ._360hEBAE2ktWlw8S5EwHmf span img {
+        position: absolute;
+        top: 3px;
+        left: -25px; }
+      ._3MPT6d2TZkcpAf6jWcEMk1 ._360hEBAE2ktWlw8S5EwHmf span:first-of-type {
+        line-height: 1.2;
+        margin-bottom: 15px; }
+  ._3MPT6d2TZkcpAf6jWcEMk1 ._3aDLDfQMKyHvc5VCYueCBt {
+    position: relative;
+    font-weight: 600; }
+    ._3MPT6d2TZkcpAf6jWcEMk1 ._3aDLDfQMKyHvc5VCYueCBt img {
+      position: absolute;
+      top: 2px;
+      left: -27px; }
+
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
