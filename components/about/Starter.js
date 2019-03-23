@@ -1,5 +1,5 @@
 import React from 'react';
-import css from './../../css/starter.scss'
+import css from './../../css/about/starter.scss'
 
 export default () => {
     return(

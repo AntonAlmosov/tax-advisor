@@ -1,4 +1,4 @@
-@import 'variables';
+@import './../variables';
 
 .starterWrapper{
     margin: 0 auto;
@@ -11,6 +11,7 @@
     font-family: $font;
     text-align: center;
     img{
+        user-select: none;
         width: 996px;
         height: 327px;
     }

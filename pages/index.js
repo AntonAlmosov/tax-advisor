@@ -14,7 +14,6 @@ class Index extends React.Component{
       </Head>
       <Header />
       <About />
-      <p>Hello Next.js</p>
     </div>
     )
   };

@@ -29,16 +29,30 @@
       "publicPath": "static/chunks/styles.js"
     },
     {
+      "id": 6,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
       "id": 2,
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }
   ],
-  "./../../css/starter.scss": [
+  "./../../css/about/starter.scss": [
     {
-      "id": "./css/starter.scss",
-      "name": "./css/starter.scss",
+      "id": "./css/about/starter.scss",
+      "name": "./css/about/starter.scss",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./../../css/about/advantages.scss": [
+    {
+      "id": "./css/about/advantages.scss",
+      "name": "./css/about/advantages.scss",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }

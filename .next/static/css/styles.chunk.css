@@ -5,6 +5,7 @@
   transform: translateX(-50%);
   background-color: #FFF2E3;
   position: fixed;
+  z-index: 20;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -30,7 +31,7 @@
     ._1GsOjDqIVfQzE0PTy144LV ._1q2MbpR-8YiDZIqs2_NqPg ._1rf18LKvzXWxYeqdPZUbdg {
       color: black; }
 
-._2Lmg7ZUf70VmOSCiNmapZX {
+._3rzkGQo60jCKQOfHYNBi3B {
   margin: 0 auto;
   height: 100vh;
   width: 1334px;
@@ -40,25 +41,64 @@
   align-items: center;
   font-family: "Inter";
   text-align: center; }
-  ._2Lmg7ZUf70VmOSCiNmapZX img {
+  ._3rzkGQo60jCKQOfHYNBi3B img {
+    user-select: none;
     width: 996px;
     height: 327px; }
-  ._2Lmg7ZUf70VmOSCiNmapZX h1 {
+  ._3rzkGQo60jCKQOfHYNBi3B h1 {
     margin-top: 37px;
     font-size: 60px;
     font-weight: 600;
     letter-spacing: -0.01em;
     line-height: 1.2; }
-  ._2Lmg7ZUf70VmOSCiNmapZX p {
+  ._3rzkGQo60jCKQOfHYNBi3B p {
     margin-top: 42px;
     width: 597px;
     font-size: 18px;
     line-height: 1.2; }
-  ._2Lmg7ZUf70VmOSCiNmapZX ._21hCM388q3XrlgYMrngCE8 {
+  ._3rzkGQo60jCKQOfHYNBi3B ._2x3qAG7wkCzuqRFRwmCWgh {
     width: 44px;
     height: 21px;
     margin-bottom: 23px;
     margin-top: 30px; }
+
+.H6UQ1dm8vWVzz9rugBuBi {
+  width: 1334px;
+  margin: 0 auto;
+  font-family: "Inter"; }
+  .H6UQ1dm8vWVzz9rugBuBi h1 {
+    margin-top: 157px;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+    text-align: center; }
+  .H6UQ1dm8vWVzz9rugBuBi ._3uJYpF1iq4ZY7CahXuFsii {
+    position: relative;
+    width: 680px;
+    margin: 141px auto 0; }
+    .H6UQ1dm8vWVzz9rugBuBi ._3uJYpF1iq4ZY7CahXuFsii .TKJo0-bqkj-BVnQxRxyfr {
+      display: flex;
+      justify-content: space-between;
+      align-items: center; }
+      .H6UQ1dm8vWVzz9rugBuBi ._3uJYpF1iq4ZY7CahXuFsii .TKJo0-bqkj-BVnQxRxyfr p {
+        width: 420px;
+        font-size: 30px; }
+      .H6UQ1dm8vWVzz9rugBuBi ._3uJYpF1iq4ZY7CahXuFsii .TKJo0-bqkj-BVnQxRxyfr:not(:last-of-type) {
+        margin-bottom: 267px; }
+  .H6UQ1dm8vWVzz9rugBuBi .o1yN3WHLZ-tunp3FJiXS7 {
+    width: 280px;
+    margin: 85px auto 18px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center; }
+    .H6UQ1dm8vWVzz9rugBuBi .o1yN3WHLZ-tunp3FJiXS7 p {
+      width: 280px;
+      font-size: 18px;
+      text-align: center;
+      color: #999188; }
+    .H6UQ1dm8vWVzz9rugBuBi .o1yN3WHLZ-tunp3FJiXS7 img {
+      margin-top: 23px; }
 
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
