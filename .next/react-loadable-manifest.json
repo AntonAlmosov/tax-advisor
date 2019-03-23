@@ -7,18 +7,32 @@
       "publicPath": "static/chunks/0.js"
     }
   ],
-  "./../style.scss": [
+  "./../css/header.scss": [
     {
-      "id": "./style.scss",
-      "name": "./style.scss",
+      "id": "./css/header.scss",
+      "name": "./css/header.scss",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }
   ],
   "undefined": [
     {
+      "id": 4,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
       "id": 2,
       "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./../style.scss": [
+    {
+      "id": "./style.scss",
+      "name": "./style.scss",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }

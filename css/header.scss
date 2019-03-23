@@ -1,0 +1,37 @@
+@import 'variables';
+
+.headerWrapper{
+    width: 1334px;
+    height: 76px;
+    margin: 0 auto;
+    background-color: $background;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #B3A99F;
+    img{
+        width: 143px;
+        height: 45px;
+    }
+    .headerMenu{
+        width: 408px;
+        display: flex;
+        justify-content: space-between;
+        a{
+            color: black;
+            font-family: $font;
+            font-size: 16px;
+            font-weight: 500;
+            color: #999188;
+            text-decoration: none;
+            transition: 0.1s;
+            &:hover{
+                transition: 0.1s;
+                transform: scale(0.95) translateX(-2px);
+            }
+        }
+        .headerLinkActive{
+            color: black;
+        }
+    }
+}

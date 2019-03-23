@@ -1,3 +1,9 @@
-p {
-  color: red;
+@import 'css/variables';
+@import 'css/reset';
+@import 'css/fonts';
+
+// @import 'css/header';
+
+body{
+    background-color: $background;
 }
