@@ -100,6 +100,61 @@
     .H6UQ1dm8vWVzz9rugBuBi .o1yN3WHLZ-tunp3FJiXS7 img {
       margin-top: 23px; }
 
+._3RxGEUf9pb5amGYTziwZTn {
+  width: 1334px;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Inter"; }
+  ._3RxGEUf9pb5amGYTziwZTn img {
+    height: 270px; }
+  ._3RxGEUf9pb5amGYTziwZTn h1 {
+    margin-top: 134px;
+    font-size: 60px;
+    font-weight: 600; }
+  ._3RxGEUf9pb5amGYTziwZTn .gc3IwhZMyqeys3d3kDKJF {
+    width: 100%;
+    border-bottom: 1px solid #B3A99F;
+    border-top: 1px solid #B3A99F; }
+    ._3RxGEUf9pb5amGYTziwZTn .gc3IwhZMyqeys3d3kDKJF a {
+      display: flex;
+      text-decoration: none; }
+      ._3RxGEUf9pb5amGYTziwZTn .gc3IwhZMyqeys3d3kDKJF a:not(:last-of-type) {
+        border-bottom: 1px solid #B3A99F; }
+  ._3RxGEUf9pb5amGYTziwZTn ._3-Wzngr6Z-Fr1sBiXYxEUs {
+    height: 21px;
+    width: 44px;
+    margin: 33px 0 23px; }
+
+._3pVi1NMOeyDyLa2DjdVqCe {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px; }
+  ._3pVi1NMOeyDyLa2DjdVqCe:not(:last-of-type) {
+    border-bottom: 1px solid #B3A99F; }
+  ._3pVi1NMOeyDyLa2DjdVqCe h2 {
+    color: black;
+    font-size: 28px;
+    font-weight: 500; }
+  ._3pVi1NMOeyDyLa2DjdVqCe span {
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+    ._3pVi1NMOeyDyLa2DjdVqCe span img {
+      width: 44px;
+      height: 44px;
+      transform: translateY(-2px); }
+  ._3pVi1NMOeyDyLa2DjdVqCe ._1rqriVnYuaa1ortYzrYDqT {
+    display: none; }
 
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
