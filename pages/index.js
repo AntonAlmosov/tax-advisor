@@ -8,6 +8,10 @@ import './../style.scss'
 
 
 class Index extends React.Component{
+  constructor(props){
+    super(props)
+  }
+
   render(){
     return(
       <div>
@@ -18,6 +22,7 @@ class Index extends React.Component{
       <About />
       <Services />
       <Contacts />
+      {this.props.windowSize}
     </div>
     )
   };
