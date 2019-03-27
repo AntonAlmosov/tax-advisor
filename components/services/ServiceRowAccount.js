@@ -1,11 +1,13 @@
 import React from 'react';
 
+import css from './../../css/services/serviceRowAccount.scss'
+
 export default ({data}) => {
     return(
-        <div>
+        <div className={css.serviceRow}>
             <span>{data.title}</span>
             <span>{data.price}</span>
-            <span>доки</span>
+            <a href=''>Открыть</a>
         </div>
     )
 }

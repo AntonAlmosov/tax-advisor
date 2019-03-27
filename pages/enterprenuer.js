@@ -23,9 +23,9 @@ class Index extends React.Component{
         <Head>
             <title>Налоговый советник | Индивидуальные предпрениматели</title>
         </Head>
-        {/* <Header /> */}
+        <Header />
         <ServiceHeading heading='Индивидуальные предприниматели'/>
-        <ServiceSwitch onClick={this.handleChange}/>
+        <ServiceSwitch onClick={this.handleChange} account={this.state.account}/>
         <ServiceTable account={this.state.account} data={this.state.data}/>
         </div>
     )
