@@ -23,42 +23,6 @@
       "publicPath": "static/chunks/styles.js"
     },
     {
-      "id": 9,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": 10,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": 11,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": 12,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": 13,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": 3,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
       "id": 14,
       "name": null,
       "file": "static/chunks/styles.js",
@@ -87,52 +51,40 @@
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
-    }
-  ],
-  "./../../css/about/starter.scss": [
+    },
     {
-      "id": "./css/about/starter.scss",
-      "name": "./css/about/starter.scss",
+      "id": 3,
+      "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
-    }
-  ],
-  "./../../css/about/advantages.scss": [
+    },
     {
-      "id": "./css/about/advantages.scss",
-      "name": "./css/about/advantages.scss",
+      "id": 9,
+      "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
-    }
-  ],
-  "./../css/services.scss": [
+    },
     {
-      "id": "./css/services.scss",
-      "name": "./css/services.scss",
+      "id": 10,
+      "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
-    }
-  ],
-  "./../../css/services/servicesRow.scss": [
+    },
     {
-      "id": "./css/services/servicesRow.scss",
-      "name": "./css/services/servicesRow.scss",
+      "id": 11,
+      "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
-    }
-  ],
-  "./../css/contacts.scss": [
+    },
     {
-      "id": "./css/contacts.scss",
-      "name": "./css/contacts.scss",
+      "id": 12,
+      "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
-    }
-  ],
-  "./../style.scss": [
+    },
     {
-      "id": "./style.scss",
-      "name": "./style.scss",
+      "id": 13,
+      "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }
@@ -173,6 +125,54 @@
     {
       "id": "./css/services/serviceHeading.scss",
       "name": "./css/services/serviceHeading.scss",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./../style.scss": [
+    {
+      "id": "./style.scss",
+      "name": "./style.scss",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./../../css/about/starter.scss": [
+    {
+      "id": "./css/about/starter.scss",
+      "name": "./css/about/starter.scss",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./../../css/about/advantages.scss": [
+    {
+      "id": "./css/about/advantages.scss",
+      "name": "./css/about/advantages.scss",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./../css/services.scss": [
+    {
+      "id": "./css/services.scss",
+      "name": "./css/services.scss",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./../../css/services/servicesRow.scss": [
+    {
+      "id": "./css/services/servicesRow.scss",
+      "name": "./css/services/servicesRow.scss",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./../css/contacts.scss": [
+    {
+      "id": "./css/contacts.scss",
+      "name": "./css/contacts.scss",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }
