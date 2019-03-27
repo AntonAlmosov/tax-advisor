@@ -19,6 +19,7 @@
         font-weight: 500;
         font-size: 16px; 
         color: #736C65;
+        transition: 0.2s;
         &:first-of-type{
             border-radius: 16px 0px 0px 16px; 
         }
@@ -26,6 +27,7 @@
             border-radius: 0px 16px 16px 0px;
         }
         &#active{
+            transition: 0.2s;
             background-color: $background;
             border: 1px solid #736C65;
             padding-top: 9px;

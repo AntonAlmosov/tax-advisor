@@ -7,10 +7,10 @@ export default ({onClick, account}) => {
         <div className={css.serviceSwitchWrapper}>
             <div onClick={onClick.bind(null, true)} 
                 className={css.serviceSwitchItem}
-                id={account? css.active : ''}>Бухгалтерия</div>
+                id={account? '' : css.active}>Бухгалтерия</div>
             <div onClick={onClick.bind(null, false)}
                 className={css.serviceSwitchItem}
-                id={account? '' : css.active }>Юридические услуги</div>
+                id={account? css.active : '' }>Юридические услуги</div>
         </div>
     )
 }
