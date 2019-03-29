@@ -23,31 +23,31 @@
       "publicPath": "static/chunks/styles.js"
     },
     {
-      "id": 3,
+      "id": 11,
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     },
     {
-      "id": 4,
+      "id": 12,
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     },
     {
-      "id": 5,
+      "id": 13,
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     },
     {
-      "id": 6,
+      "id": 14,
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     },
     {
-      "id": 7,
+      "id": 15,
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
@@ -59,42 +59,42 @@
       "publicPath": "static/chunks/styles.js"
     }
   ],
-  "./../../css/about/starter.scss": [
+  "./../../css/services/serviceRowAccount.scss": [
     {
-      "id": "./css/about/starter.scss",
-      "name": "./css/about/starter.scss",
+      "id": "./css/services/serviceRowAccount.scss",
+      "name": "./css/services/serviceRowAccount.scss",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }
   ],
-  "./../../css/about/advantages.scss": [
+  "./../../css/services/serviceRowLegal.scss": [
     {
-      "id": "./css/about/advantages.scss",
-      "name": "./css/about/advantages.scss",
+      "id": "./css/services/serviceRowLegal.scss",
+      "name": "./css/services/serviceRowLegal.scss",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }
   ],
-  "./../css/services.scss": [
+  "./../../css/services/serviceTable.scss": [
     {
-      "id": "./css/services.scss",
-      "name": "./css/services.scss",
+      "id": "./css/services/serviceTable.scss",
+      "name": "./css/services/serviceTable.scss",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }
   ],
-  "./../../css/services/servicesRow.scss": [
+  "./../../css/services/serviceSwitch.scss": [
     {
-      "id": "./css/services/servicesRow.scss",
-      "name": "./css/services/servicesRow.scss",
+      "id": "./css/services/serviceSwitch.scss",
+      "name": "./css/services/serviceSwitch.scss",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }
   ],
-  "./../css/contacts.scss": [
+  "./../../css/services/serviceHeading.scss": [
     {
-      "id": "./css/contacts.scss",
-      "name": "./css/contacts.scss",
+      "id": "./css/services/serviceHeading.scss",
+      "name": "./css/services/serviceHeading.scss",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }
