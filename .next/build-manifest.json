@@ -11,10 +11,6 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/taxes": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
     "/enterprenuer": [
       "static/runtime/webpack.js",
       "static/css/styles.chunk.css",
@@ -23,6 +19,12 @@
     ],
     "/next/dist/pages/_error": [
       "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/taxes": [
+      "static/runtime/webpack.js",
+      "static/css/styles.chunk.css",
+      "static/chunks/styles.js",
       "static/runtime/main.js"
     ]
   }
