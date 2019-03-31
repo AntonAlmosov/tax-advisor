@@ -1,11 +1,14 @@
 import React from 'react';
 
 import Header from './../components/Header'
+import './../style.scss'
 
 class Taxes extends React.Component {
     render(){
         return(
-            <div></div>
+            <div>
+                <Header />
+            </div>
         )
     }
     

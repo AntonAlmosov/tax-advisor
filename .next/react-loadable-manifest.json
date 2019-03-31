@@ -23,78 +23,8 @@
       "publicPath": "static/chunks/styles.js"
     },
     {
-      "id": 11,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": 12,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": 13,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": 14,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
-      "id": 15,
-      "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    },
-    {
       "id": 8,
       "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    }
-  ],
-  "./../../css/services/serviceRowAccount.scss": [
-    {
-      "id": "./css/services/serviceRowAccount.scss",
-      "name": "./css/services/serviceRowAccount.scss",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    }
-  ],
-  "./../../css/services/serviceRowLegal.scss": [
-    {
-      "id": "./css/services/serviceRowLegal.scss",
-      "name": "./css/services/serviceRowLegal.scss",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    }
-  ],
-  "./../../css/services/serviceTable.scss": [
-    {
-      "id": "./css/services/serviceTable.scss",
-      "name": "./css/services/serviceTable.scss",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    }
-  ],
-  "./../../css/services/serviceSwitch.scss": [
-    {
-      "id": "./css/services/serviceSwitch.scss",
-      "name": "./css/services/serviceSwitch.scss",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    }
-  ],
-  "./../../css/services/serviceHeading.scss": [
-    {
-      "id": "./css/services/serviceHeading.scss",
-      "name": "./css/services/serviceHeading.scss",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }
