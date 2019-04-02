@@ -23,8 +23,22 @@
       "publicPath": "static/chunks/styles.js"
     },
     {
+      "id": 1,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
       "id": 8,
       "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./../../css/taxes/taxesWrapper.scss": [
+    {
+      "id": "./css/taxes/taxesWrapper.scss",
+      "name": "./css/taxes/taxesWrapper.scss",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }

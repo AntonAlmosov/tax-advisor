@@ -1,0 +1,19 @@
+@import './../variables';
+
+.taxesWrapper{
+    width: $containerWidth;
+    margin: 0 auto;
+    padding-top: 77px;
+    h1{
+        display: flex;
+        align-items: center;
+        width: 100%;
+        border-bottom: 1px solid #B3A99F;
+        img{
+            margin: 0 auto;
+            padding: 26px 0 30px;
+            width: 219px;
+            height: 60px;
+        }
+    } 
+}

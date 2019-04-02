@@ -3,6 +3,7 @@ import Head from 'next/head'
 
 import data from './taxes.json'
 import Header from './../components/Header'
+import TaxesWrapper from './../components/taxes/TaxesWrapper'
 import './../style.scss'
 
 class Taxes extends React.Component {
@@ -13,6 +14,9 @@ class Taxes extends React.Component {
             data
         }
     }
+    componentWillMount(){
+        console.log(this.state.data.services)
+    }
     render(){
         return(
             <div>
@@ -20,7 +24,7 @@ class Taxes extends React.Component {
                     <title>Налоговый советник | 3-НДФЛ</title>
                 </Head>
                 <Header />
-                {data.services}
+                <TaxesWrapper services={this.state.data.services} />
             </div>
         )
     }
