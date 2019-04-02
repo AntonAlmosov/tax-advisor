@@ -58,7 +58,7 @@
     &:nth-child(3n+2){
         border-bottom: 1px solid #B3A99F;
     }
-    &:nth-child(1n+10){
+    &:nth-last-child(-n+3){
         border-bottom: 0px;
     }
     &:hover{
