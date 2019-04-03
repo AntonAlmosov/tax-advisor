@@ -8,7 +8,8 @@
     "now-build": "next build",
     "start": "next start -p 443",
     "start-local": "next start -p 3000",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "export": "npm run build && next export"
   },
   "author": "",
   "license": "ISC",

@@ -14,9 +14,6 @@ class Taxes extends React.Component {
             data
         }
     }
-    componentWillMount(){
-        console.log(this.state.data.services)
-    }
     render(){
         return(
             <div>
