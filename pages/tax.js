@@ -4,6 +4,7 @@ import { withRouter } from 'next/router'
 
 import data from './taxes.json'
 import Header from './../components/Header'
+import TaxesPage from './../components/taxes/TaxesPage'
 import './../style.scss'
 
 
@@ -15,7 +16,15 @@ const Tax = withRouter(props => {
         if(elem.id == props.router.query.id)
             e = elem
     })
-    return (<h1>{e.name}</h1>)
+    return (
+        <div>
+            <Head>
+                    <title>Налоговый советник | {e.name}</title>
+            </Head>
+            <Header />
+            <TaxesPage data={e} />
+        </div>
+    )
 })
 
 
