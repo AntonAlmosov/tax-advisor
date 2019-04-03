@@ -9,7 +9,7 @@ export default ({services}) => {
        <div className={css.taxesWrapper}>
             <h1><img src='/static/taxes.svg' /></h1>
             <div className={css.taxesCardsWrapper}>
-                {services.map(elem => <Link href={'/tax?id='+elem.id}><a><TaxesCard data={elem} /></a></Link>)}
+                {services.map(elem => <TaxesCard data={elem} />)}
             </div>
        </div>
    ) 
