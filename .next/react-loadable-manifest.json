@@ -57,6 +57,18 @@
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": 3,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    },
+    {
+      "id": 4,
+      "name": null,
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
     }
   ],
   "./../../css/about/starter.scss": [
@@ -103,6 +115,22 @@
     {
       "id": "./style.scss",
       "name": "./style.scss",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./../../css/taxes/taxesCard.scss": [
+    {
+      "id": "./css/taxes/taxesCard.scss",
+      "name": "./css/taxes/taxesCard.scss",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./../../css/taxes/taxesWrapper.scss": [
+    {
+      "id": "./css/taxes/taxesWrapper.scss",
+      "name": "./css/taxes/taxesWrapper.scss",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }

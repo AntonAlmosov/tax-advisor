@@ -17,6 +17,12 @@
       "static/chunks/styles.js",
       "static/runtime/main.js"
     ],
+    "/taxes": [
+      "static/runtime/webpack.js",
+      "static/css/styles.chunk.css",
+      "static/chunks/styles.js",
+      "static/runtime/main.js"
+    ],
     "/tax": [
       "static/runtime/webpack.js",
       "static/css/styles.chunk.css",
