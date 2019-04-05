@@ -31,26 +31,26 @@ class TaxesPageCard extends React.Component{
                         <h1>{this.state.data.name}</h1>
                         <p>{this.state.data.description}</p>
                         <div className={css.cardContentTags}>
-                            <div>
+                            <div className={css.cardContentTag}>
                                 <img src='/static/price.svg' />
                                 <span>{this.state.data.price}</span>
                             </div>
-                            <div>
+                            <div className={css.cardContentTag}>
                                 <img src='/static/time.svg' />
                                 <span>{this.state.data.time}</span>
                             </div>
                         </div>
                         <div className={css.cardContentDocsWrapper}>
-                            <h2>Необходимые документы</h2>
+                            <h2>Необходимые документы: </h2>
                             <div className={css.cardContentDocsControlls}>
                                 <div 
-                                className={(this.state.new == 0) ? 'cardContentControllsActive' : 'cardContentControllsInactive'}
+                                className={(this.state.new == 0) ? css.cardContentControllsActive : css.cardContentControllsInactive}
                                 onClick={this.switchAppartment.bind(null, 0)}
                                 >
                                     Новостройка
                                 </div>
                                 <div 
-                                className={(this.state.new == 1) ? 'cardContentControllsActive' : 'cardContentControllsInactive'}
+                                className={(this.state.new == 1) ? css.cardContentControllsActive : css.cardContentControllsInactive}
                                 onClick={this.switchAppartment.bind(null, 1)}
                                 >
                                     Вторичка
@@ -76,17 +76,17 @@ class TaxesPageCard extends React.Component{
                         <h1>{this.state.data.name}</h1>
                         <p>{this.state.data.description}</p>
                         <div className={css.cardContentTags}>
-                            <div>
+                            <div className={css.cardContentTag}>
                                 <img src='/static/price.svg' />
                                 <span>{this.state.data.price}</span>
                             </div>
-                            <div>
+                            <div className={css.cardContentTag}>
                                 <img src='/static/time.svg' />
                                 <span>{this.state.data.time}</span>
                             </div>
                         </div>
                         <div className={css.cardContentDocsWrapper}>
-                            <h2>Необходимые документы</h2>
+                            <h2>Необходимые документы: </h2>
                             <ul>
                                 {this.state.data.documents.map(elem => 
                                     <li>{elem}</li>)}

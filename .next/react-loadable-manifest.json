@@ -23,13 +23,13 @@
       "publicPath": "static/chunks/styles.js"
     },
     {
-      "id": 9,
+      "id": 3,
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     },
     {
-      "id": 1,
+      "id": 4,
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
@@ -41,38 +41,14 @@
       "publicPath": "static/chunks/styles.js"
     },
     {
-      "id": 3,
+      "id": 9,
       "name": null,
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     },
     {
-      "id": 4,
+      "id": 1,
       "name": null,
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    }
-  ],
-  "./../../css/taxes/taxesPageCard.scss": [
-    {
-      "id": "./css/taxes/taxesPageCard.scss",
-      "name": "./css/taxes/taxesPageCard.scss",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    }
-  ],
-  "./../../css/taxes/taxesPage.scss": [
-    {
-      "id": "./css/taxes/taxesPage.scss",
-      "name": "./css/taxes/taxesPage.scss",
-      "file": "static/chunks/styles.js",
-      "publicPath": "static/chunks/styles.js"
-    }
-  ],
-  "./../style.scss": [
-    {
-      "id": "./style.scss",
-      "name": "./style.scss",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }
@@ -89,6 +65,30 @@
     {
       "id": "./css/taxes/taxesWrapper.scss",
       "name": "./css/taxes/taxesWrapper.scss",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./../style.scss": [
+    {
+      "id": "./style.scss",
+      "name": "./style.scss",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./../../css/taxes/taxesPageCard.scss": [
+    {
+      "id": "./css/taxes/taxesPageCard.scss",
+      "name": "./css/taxes/taxesPageCard.scss",
+      "file": "static/chunks/styles.js",
+      "publicPath": "static/chunks/styles.js"
+    }
+  ],
+  "./../../css/taxes/taxesPage.scss": [
+    {
+      "id": "./css/taxes/taxesPage.scss",
+      "name": "./css/taxes/taxesPage.scss",
       "file": "static/chunks/styles.js",
       "publicPath": "static/chunks/styles.js"
     }
