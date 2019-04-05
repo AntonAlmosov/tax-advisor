@@ -1,17 +1,10 @@
 import React from 'react'
 
-export default ({data}) => {
-    if (data.appartment)
-        return(
-            <div>
-                <img src={data.image} />
-                <p>this is appartment</p>
-            </div>
-        )
-    else
-        return(
-        <div>
-            <img src={data.image} />
-            <p>this is not appartment</p>
-        </div>)
-}
+import TaxesPageCard from './TaxesPageCard'
+import css from './../../css/taxes/taxesPage.scss'
+
+export default ({data}) => (
+            <div className={css.taxesPage}>
+                <h1><img src='/static/taxes.svg' /></h1>
+                <TaxesPageCard data={data} />
+            </div>)
