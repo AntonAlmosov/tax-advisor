@@ -13,11 +13,7 @@ class TaxesPageCard extends React.Component{
         }
         this.switchAppartment = this.switchAppartment.bind(this)
     }
-
-    componentWillUpdate(){
-        console.log(this.state.new)
-    }
-
+    
     render(){
         if(this.state.data.appartment)
             return(
