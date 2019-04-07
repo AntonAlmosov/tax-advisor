@@ -1,5 +1,4 @@
 import React from 'react';
-
 import css from './../../css/services/serviceRowLegal.scss'
 
 export default ({data}) => {
