@@ -7,7 +7,6 @@ import Header from './../components/Header'
 import TaxesPage from './../components/taxes/TaxesPage'
 import './../style.scss'
 
-
 const Tax = withRouter(props => {
     let e = {}
     data.services.map(elem => {
